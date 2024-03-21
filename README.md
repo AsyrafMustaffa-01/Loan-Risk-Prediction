@@ -12,3 +12,5 @@ with 60% of the result is the same as the approvals status, I would say my hypot
 
 now that we have seen the bad and good loans, nwo we try to do prediction of those good and bad loan for the loaner, using the same algorithm, LightGBM. 
 This is because LightGBM can use categorical features for its model training. The Trained model get accuracy scores of 98%, which shows that the model can easily predict the cluster class. 
+
+Tools used: Jupyter Notebook, pandas, NumPy, Scikit-Learn, SweetViz as Data Profiling tools, LightGBM, SHAP to see features importances, plotly for interactive plot, matplotlib as for visualization, adn Kprototypes to clustering. 
